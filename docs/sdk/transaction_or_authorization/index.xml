@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AA Wallet</title>
+    <link>https://ankr-network.github.io/docs/sdk/transaction_or_authorization/</link>
+    <description>Recent content on AA Wallet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ankr-network.github.io/docs/sdk/transaction_or_authorization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call Transaction</title>
+      <link>https://ankr-network.github.io/docs/sdk/transaction_or_authorization/call_transaction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ankr-network.github.io/docs/sdk/transaction_or_authorization/call_transaction/</guid>
+      <description>Call Transaction#{&amp;quot;url&amp;quot;:&amp;quot;/token/wallet/user_operation&amp;quot;,&amp;quot;method&amp;quot;:&amp;quot;post&amp;quot;,&amp;quot;data&amp;quot;:{&amp;quot;to&amp;quot;:address, // Contract or erc20 address&amp;quot;value&amp;quot;:values, // Transfer amount or 0&amp;quot;data&amp;quot;:data, // encodeFunctionData returned by getFromatData method}} </description>
+    </item>
+    
+    <item>
+      <title>Authorization Example</title>
+      <link>https://ankr-network.github.io/docs/sdk/transaction_or_authorization/authorization_example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ankr-network.github.io/docs/sdk/transaction_or_authorization/authorization_example/</guid>
+      <description>Authorization Example#await userOperation({&amp;quot;address&amp;quot;:&amp;quot;0x....&amp;quot;,&amp;quot;data&amp;quot;:getFromatData({&amp;quot;tokenContract&amp;quot;:0x....,&amp;quot;abi&amp;quot;:Erc721ABI,&amp;quot;abiInput&amp;quot;:[0x0.... , tokenId],&amp;quot;methods&amp;quot;:approve});}); </description>
+    </item>
+    
+  </channel>
+</rss>
